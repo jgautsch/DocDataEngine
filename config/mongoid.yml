@@ -1,0 +1,13 @@
+development:
+  sessions:
+    default:
+      database: geocoded_providers
+      hosts:
+        - localhost:27017
+
+procuction:
+  sessions:
+    default:
+      database: geocoded_providers
+      hosts:
+        - localhost:27017
