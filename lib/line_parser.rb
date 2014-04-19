@@ -1,5 +1,5 @@
 # "NPI",
-# "Entity Type Code",
+# "Entity Type Code", 
 # "Replacement NPI",
 # "Employer Identification Number (EIN)",
 # "Provider Organization Name (Legal Business Name)",
